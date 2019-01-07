@@ -7,8 +7,12 @@
   <script src="script.js"></script>
 </head>
 <body>
-  ...
+
+  <?php
+  print("prout.php");
+  ?>
+
  <img title="hckd" src="https://image.flaticon.com/icons/svg/12/12212.svg">
-  ...
+
 </body>
 </html>
